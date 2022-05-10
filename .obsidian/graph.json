@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"0⚪ Deltagare\"",
+      "query": "path:\"Data/0 Deltagare\"",
       "color": {
         "a": 1,
         "rgb": 16777215
@@ -74,6 +74,6 @@
   "repelStrength": 14.047619047619,
   "linkStrength": 0.327380952380952,
   "linkDistance": 366,
-  "scale": 0.07431470243658067,
+  "scale": 0.0743147024365807,
   "close": false
 }
