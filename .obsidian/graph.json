@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "path:-\"0⚪ Deltagare\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"0⚪ Deltagare\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"1⚫ Arketyper\"",
+      "color": {
+        "a": 1,
+        "rgb": 3684408
+      }
+    },
+    {
+      "query": "path:\"2🟣 Karaktärsbeskrivningar\"",
+      "color": {
+        "a": 1,
+        "rgb": 8940772
+      }
+    },
+    {
+      "query": "path:\"3🔵 Utseende\"",
+      "color": {
+        "a": 1,
+        "rgb": 30935
+      }
+    },
+    {
+      "query": "path:\"4🟡 Knytpunkter\"",
+      "color": {
+        "a": 1,
+        "rgb": 3684408
+      }
+    },
+    {
+      "query": "path:\"5🔴 Påståenden\"",
+      "color": {
+        "a": 1,
+        "rgb": 15213076
+      }
+    },
+    {
+      "query": "path:\"6🟢 Research/Koncept🌱🌲\"",
+      "color": {
+        "a": 1,
+        "rgb": 3684408
+      }
+    },
+    {
+      "query": "path:\"6🟢 Research\"",
+      "color": {
+        "a": 1,
+        "rgb": 1492492
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.410112359550562,
+  "repelStrength": 8.76404494382023,
+  "linkStrength": 0.752808988764045,
+  "linkDistance": 202,
+  "scale": 0.2292013121492527,
+  "close": true
+}
