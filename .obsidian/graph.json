@@ -15,49 +15,49 @@
       }
     },
     {
-      "query": "path:\"1⚫ Arketyper\"",
+      "query": "path:\"Data/1 Arketyper\"",
       "color": {
         "a": 1,
         "rgb": 3684408
       }
     },
     {
-      "query": "path:\"2🟣 Karaktärsbeskrivningar\"",
+      "query": "path:\"Data/2 Karaktärsbeskrivningar\"",
       "color": {
         "a": 1,
         "rgb": 8940772
       }
     },
     {
-      "query": "path:\"3🔵 Utseende\"",
+      "query": "path:\"Data/3 Utseende\"",
       "color": {
         "a": 1,
         "rgb": 30935
       }
     },
     {
-      "query": "path:\"4🟡 Knytpunkter\"",
+      "query": "path:\"Data/4 Knytpunkter\"",
       "color": {
         "a": 1,
         "rgb": 3684408
       }
     },
     {
-      "query": "path:\"5🔴 Påståenden\"",
+      "query": "path:\"Data/5 Påståenden\"",
       "color": {
         "a": 1,
         "rgb": 15213076
       }
     },
     {
-      "query": "path:\"6🟢 Research/Koncept🌱🌲\"",
+      "query": "path:\"Data/6 Research/Koncept\"",
       "color": {
         "a": 1,
         "rgb": 3684408
       }
     },
     {
-      "query": "path:\"6🟢 Research\"",
+      "query": "path:\"Data/6 Research/Referenser\"",
       "color": {
         "a": 1,
         "rgb": 1492492
@@ -69,11 +69,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.410112359550562,
-  "repelStrength": 8.76404494382023,
-  "linkStrength": 0.752808988764045,
-  "linkDistance": 202,
-  "scale": 0.2292013121492527,
-  "close": true
+  "collapse-forces": false,
+  "centerStrength": 0.458333333333333,
+  "repelStrength": 14.047619047619,
+  "linkStrength": 0.327380952380952,
+  "linkDistance": 366,
+  "scale": 0.07431470243658067,
+  "close": false
 }
