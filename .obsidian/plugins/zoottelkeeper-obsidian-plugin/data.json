@@ -1,0 +1,19 @@
+{
+  "indexPrefix": "_🗺",
+  "indexItemStyle": "list",
+  "indexTagValue": "🗺",
+  "indexTagBoolean": true,
+  "indexTagSeparator": ", ",
+  "indexTagLabel": "tags",
+  "cleanPathBoolean": true,
+  "folderEmoji": ":seedling:",
+  "fileEmoji": ":seedling:",
+  "enableEmojis": false,
+  "foldersExcluded": "📦Mallar",
+  "foldersIncluded": "",
+  "sortOrder": "asc",
+  "addSquareBrackets": true,
+  "embedSubIndex": false,
+  "templateFile": "📦Mallar/Zoottelkeeper.md",
+  "frontMatterSeparator": "---"
+}

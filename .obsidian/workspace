@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5766c1033e36fb87",
+        "id": "ef01dac672d07743",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -90,7 +90,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -105,23 +105,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5766c1033e36fb87",
+  "active": "ef01dac672d07743",
   "lastOpenFiles": [
-    "Data/_Index_of_Data.md",
-    "Data/6 Research/_Index_of_6 Research.md",
-    "Data/3 Utseende/_Index_of_3 Utseende.md",
-    "Data/2 Karaktärsbeskrivningar/_Index_of_2 Karaktärsbeskrivningar.md",
-    "Data/3 Utseende/Barn.md",
-    "Data/0 Deltagare/Deltagare 7J.md",
-    "Data/0 Deltagare/_Index_of_0 Deltagare.md",
-    "Data/6 Research/Koncept/Koncept.md",
-    "Hem.md",
-    "Data/6 Research/6 Research.md"
+    "🌱Tankar/Tunna ögonbryn.md",
+    "🍎Referenser/1993 Berland.md",
+    "🌱Tankar/Framslopande panna.md",
+    "🌳Koncept/Fysionomiken är i sig defekt.md",
+    "🏡Hem.md",
+    "🍎Referenser/_🗺🍎Referenser.md",
+    "🌳Koncept/_🗺🌳Koncept.md",
+    "🌱Tankar/_🗺🌱Tankar.md",
+    "_🗺Examensarbete Databank.md",
+    "🗺Examensarbete Databank.md"
   ]
 }

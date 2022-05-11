@@ -1,2 +1,0 @@
-#graf 
-god
